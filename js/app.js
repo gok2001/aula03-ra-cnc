@@ -25,20 +25,29 @@ document.addEventListener(
                 text: "A placa fixa a peça e o cabeçote fornece o movimento de rotação necessário ao torneamento.",
                 detail: "A fixação correta é essencial para precisão e segurança."
             },
+
             torre: {
                 title: "Torre de ferramentas",
                 text: "A torre organiza as ferramentas de corte e permite selecionar a ferramenta necessária em cada etapa do programa CNC.",
                 detail: "A indexação da torre pode integrar a sequência automática de usinagem."
             },
+
             comando: {
                 title: "Painel de comando CNC",
                 text: "O painel é a interface entre operador, programa CNC e sistema de controle da máquina.",
                 detail: "Os dados apresentados nesta experiência são didáticos."
             },
+
             seguranca: {
                 title: "Proteção e segurança",
                 text: "Portas, proteções e intertravamentos ajudam a separar o operador da região de usinagem.",
                 detail: "A Realidade Aumentada não substitui treinamento ou documentação do fabricante."
+            },
+            
+            motor: {
+                title: "Motor do torno",
+                text: "O motor fornece a energia necessária para o funcionamento dos sistemas mecânicos do torno CNC.",
+                detail: "Seu funcionamento está relacionado ao acionamento e controle dos movimentos da máquina."
             }
         };
 
